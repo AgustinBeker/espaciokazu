@@ -4,7 +4,7 @@ const products = [
         name: 'Marca tiento',
         price: 2800,
         category: 'Conjuntos',
-        img: 'https://scontent.feze5-1.fna.fbcdn.net/v/t39.30808-6/339461710_622947713075654_4414466271647576349_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeGsQItdrhfOyuodTdOHBBZ70TCkEHKfHYnRMKQQcp8diWrXVIJyWTFgCAL8g8iFSoZE0lN6Doj2OF_qDiU1Cbvd&_nc_ohc=SXefnXjHSZcAX8tHfac&_nc_ht=scontent.feze5-1.fna&oh=00_AfCLZIsd8KPet5euDzlV7KqTLG5QtUW4H8zwkq_2lYxe-g&oe=646D484F',
+        img: './components/Assets/Conjunto1.jpg',
         stock: 25,
         description: 'Descripcion de Conjunto'
     },
