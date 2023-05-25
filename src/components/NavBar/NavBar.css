@@ -91,6 +91,8 @@ h3 {
 }
 
 
+
+
 .Logo{
     display: flex;
 }
@@ -101,6 +103,9 @@ h3 {
 }
 
 .ActiveOption {
+    text-decoration: none;
+    color: black;
+    border-bottom: 4px solid #F0A4A9;
 
 }
 

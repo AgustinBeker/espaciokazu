@@ -2,10 +2,10 @@ const products = [
     {
         id: '1',
         name: 'Marca tiento',
-        price: 2800,
+        price: 2200,
         category: 'Conjuntos',
         img: 'https://i.postimg.cc/FH2pSdvc/Conjunto1.jpg',
-        stock: 25,
+        stock: 22,
         description: 'Descripcion de Conjunto'
     },
     {
@@ -20,7 +20,7 @@ const products = [
     {
         id: '3', 
         name: 'Saphirus', 
-        price: 1200, 
+        price: 1400, 
         category: 'Saphirus', 
         img: 'https://i.postimg.cc/fRnpnTqw/Saphirus1.jpg', 
         stock: 8, 
@@ -29,19 +29,19 @@ const products = [
 {
     id: '4',
     name: 'Marca tiento',
-    price: 2800,
+    price: 2400,
     category: 'Conjuntos',
     img: 'https://i.postimg.cc/jS5dGcD6/Conjunto2.jpg',
-    stock: 25,
+    stock: 24,
     description: 'Descripcion de Conjunto'
 },
 {
     id: '5',
     name: 'Marca tiento',
-    price: 2800,
+    price: 2600,
     category: 'Conjuntos',
     img: 'https://i.postimg.cc/fyn1vz9q/Conjunto3.jpg',
-    stock: 25,
+    stock: 26,
     description: 'Descripcion de Conjunto'
 },
 {
@@ -50,7 +50,7 @@ const products = [
     price: 2800,
     category: 'Conjuntos',
     img: 'https://i.postimg.cc/TYPJ48Jt/Conjunto4.jpg',
-    stock: 25,
+    stock: 28,
     description: 'Descripcion de Conjunto'
 }
 ]
